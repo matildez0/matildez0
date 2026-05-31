@@ -46,11 +46,3 @@ I learn by doing: auditing source code, building SAST tooling, exploring cryptog
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matildez0&show_icons=true&hide_border=true&theme=vue-dark" alt="Matilde's GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matildez0&layout=compact&hide_border=true&theme=vue-dark" alt="Top languages" height="160">
-</p>
-
-<p align="center"><sub>“The necessity of understanding technology at its core to protect it effectively.”</sub></p>
