@@ -17,7 +17,7 @@
 
 I'm driven by a genuine passion for **cybersecurity**. What pulls me in is the depth of the challenge: you can't protect a system without first understanding how it really works, and how it breaks.
 
-I learn by doing: auditing source code, building SAST tooling, exploring cryptography, and working through CTF-style labs on **TryHackMe**, **PortSwigger Web Security Academy** and **SEED Labs** (clickjacking, auth, access control, XSS, buffer overflows). I stay current through security media like **DarkReading** and the **Chaos Computer Club**.
+I learn by doing: auditing source code, building SAST tooling, exploring cryptography, and working through CTF-style labs on **TryHackMe**, **PortSwigger Web Security Academy**, **CyLab Security Academy** and **SEED Labs** (clickjacking, auth, access control, XSS, buffer overflows). I stay current through security media like **DarkReading** and the **Chaos Computer Club**.
 
 - 🎯 Looking for a **summer internship in cybersecurity**
 
