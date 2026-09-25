@@ -1,9 +1,12 @@
-# Matilde 👋
+<div align="center">
 
-Cybersecurity-focused Software Engineering student — breaking & securing code.
-MSc in Software Engineering (Network, Cryptography & Information Security) · University of Minho
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Matilde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity-focused%20Software%20Engineering%20Student&descAlignY=55&descSize=16)
 
-[Portfolio](https://matildez0.github.io) · [LinkedIn](https://www.linkedin.com/in/matildeoliveira0/) · [Email](mailto:matilde0liveiraa@hotmail.com)
+<a href="https://matildez0.github.io"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matildeoliveira0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:matilde0liveiraa@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 <br>
 
@@ -23,8 +26,14 @@ Hands-on is how I learn: auditing code, building SAST tooling, digging into cryp
 
 ## Tech
 
-**Languages & frameworks**
-`Python` `C` `Rust` `Go` `Java` `JavaScript` `React` `HTML` `CSS` `Tailwind`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Security tools**
-`Burp Suite` `Wireshark`
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
