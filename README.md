@@ -1,5 +1,5 @@
 <a href="https://matildez0.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=20&duration=1200&pause=1500&color=9D24C1&background=E8E3ED&center=false&vCenter=true&width=850&height=60&cursor=_&lines=%24+whoami+>+Matilde+Oliveira;%24+echo+%24ROLE+>+Network and Cybersecurity Student;%24+cat+strength.txt+>+Curiosity" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=20&duration=1200&pause=1500&color=9D24C1&background=E8E3ED&center=false&vCenter=true&width=850&height=60&cursor=_&lines=%24+whoami+>+Matilde+Oliveira;%24+echo+%24ROLE+>+Network+and+Cybersecurity+Student;%24+cat+strength.txt+>+Curiosity" alt="Terminal Header" />
 </a>
 <br>
 <a href="https://matildez0.github.io"><img src="https://img.shields.io/badge/Portfolio-E8E3ED?style=for-the-badge&logo=googlechrome&logoColor=9D24C1" /></a>
