@@ -1,10 +1,12 @@
 <div align="center">
 
 <a href="https://matildez0.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=28&duration=3200&pause=1000&color=#3C0061&background=07080A&center=true&vCenter=true&width=900&height=150&lines=%24+whoami;matilde+oliveira;role%3A+studying security ;strenght%3A+curiosity" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=28&duration=3200&pause=1000&color=9D24C1&background=E8E3ED&center=true&vCenter=true&width=900&height=150&lines=%24+whoami;matilde_oliveira;%24+cat+focus.txt;application_security;%24+echo+%24STRENGTH;curiosity_driven" width="100%"/>
 </a>
 
-<a href="https://matildez0.github.io"><img src="https://img.shields.io/badge/Portfolio-07080a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
+<br>
+
+<a href="https://matildez0.github.io"><img src="https://img.shields.io/badge/Portfolio-E8E3ED?style=for-the-badge&logo=googlechrome&logoColor=9D24C1" /></a>
 <a href="https://www.linkedin.com/in/matildeoliveira0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:matilde0liveiraa@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 
