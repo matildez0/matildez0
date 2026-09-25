@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://matildez0.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=28&duration=3200&pause=1000&color=38BDF8&background=07080A&center=true&vCenter=true&width=900&height=150&lines=%24+whoami;matilde+oliveira;role%3A+application+security;status%3A+securing+systems" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=28&duration=3200&pause=1000&color=#3C0061&background=07080A&center=true&vCenter=true&width=900&height=150&lines=%24+whoami;matilde+oliveira;role%3A+studying security ;strenght%3A+curiosity" width="100%"/>
 </a>
 
 <a href="https://matildez0.github.io"><img src="https://img.shields.io/badge/Portfolio-07080a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
