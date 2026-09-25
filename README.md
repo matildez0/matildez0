@@ -1,14 +1,11 @@
 <a href="https://matildez0.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=19&duration=1000&pause=500&color=9D24C1&background=E8E3ED&center=false&vCenter=false&multiline=true&width=850&height=150&cursor=_&lines=%24+whoami;Matilde+Oliveira;%24+echo+%24ROLE;Cybersecurity+Student;%24+cat+strength.txt;Curiosity" alt="Terminal Header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=20&duration=1200&pause=1500&color=9D24C1&background=E8E3ED&center=false&vCenter=true&width=850&height=60&cursor=_&lines=%24+whoami+>+Matilde+Oliveira;%24+echo+%24ROLE+>+Cybersecurity+Student;%24+cat+strength.txt+>+Curiosity" alt="Terminal Header" />
 </a>
-
-<br><br>
-
+<br>
 <a href="https://matildez0.github.io"><img src="https://img.shields.io/badge/Portfolio-E8E3ED?style=for-the-badge&logo=googlechrome&logoColor=9D24C1" /></a>
 <a href="https://www.linkedin.com/in/matildeoliveira0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:matilde0liveiraa@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-
-<br><br>
+<br>
 
 ## A little bit of my perspective 
 
@@ -18,7 +15,6 @@ In an often chaotic daily life where physical safety is not always a given, the 
 I back this mindset with hands-on practice: tackling CTFs (TryHackMe, PortSwigger, SEED Labs). To stay ahead of a fast-moving industry, I regularly follow Dark Reading, the Chaos Computer Club, and the *Risky Business* podcast.
 
 Right now, Im currently seeking a professional cybersecurity internship. If you are looking for someone driven to secure the digital landscape, I'd love to hear from you.
-
 <br>
 
 ## Tech Stack
