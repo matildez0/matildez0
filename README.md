@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://matildez0.github.io">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080a,100:141420&height=160&section=header&text=MATILDE+OLIVEIRA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Application+Security,+breaking+and+securing+code&descAlignY=65&descSize=15&descColor=38bdf8&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=28&duration=3200&pause=1000&color=38BDF8&background=07080A&center=true&vCenter=true&width=900&height=150&lines=%24+whoami;matilde+oliveira;role%3A+application+security;status%3A+securing+systems" width="100%"/>
 </a>
 
 <a href="https://matildez0.github.io"><img src="https://img.shields.io/badge/Portfolio-07080a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
@@ -9,24 +9,16 @@
 <a href="mailto:matilde0liveiraa@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 
 </div>
-
 <br>
 
-## About Me 👋
+## A little bit of my perspective 
 
-Cybersecurity is the field that keeps me curious every single day. I like taking systems apart to understand exactly how they work and then figuring out where they can break. That continuous process of testing, learning, and connecting the dots until something finally clicks is what pulls me in every time.
+Cybersecurity is the field that keeps me curious every single day. I thrive on taking systems apart to uncover exactly how they work and where they break. The continuous loop of testing, learning, and connecting the dots until a vulnerability finally clicks is what drives me every single day.
 
-**Security goes far beyond technology**<br>
-The digital world is ultimately a mirror of our reality. In an often chaotic daily life where a sense of physical safety is not always a given, the online environment needs to be our safe haven. 
+In an often chaotic daily life where physical safety is not always a given, the online environment must be a space built on trust that empowers us to connect. This is exactly where my practical mindset aligns with the core values of leading tech companies. I believe in ensuring users feel protected so they can navigate, share, and explore freely without fear. Ultimately, my goal is to bring that unshakable peace of mind into the digital space, ensuring that no matter the unpredictability outside, every person's experience remains secure and open.
+I back this mindset with hands-on practice: tackling CTFs (TryHackMe, PortSwigger, SEED Labs). To stay ahead of a fast-moving industry, I regularly follow Dark Reading, the Chaos Computer Club, and the *Risky Business* podcast.
 
-**My Mission**<br>
-This is exactly where my practical mindset aligns with the core values of leading tech companies. I believe in ensuring users always feel protected so they can navigate, share, and explore freely without fear. 
-
-When I look for vulnerabilities in a system, I am not just solving a technical puzzle. I am working to build and bring into the digital space that unshakable peace of mind we so often seek in real life. My goal is to ensure that no matter the chaos outside, every person's experience remains perfectly safe and free.
-
-I stay sharp through hands-on practice: CTFs on TryHackMe, PortSwigger, and SEED Labs, plus auditing code and building SAST tooling on my own projects. To keep up with how fast the field moves, I follow DarkReading, the Chaos Computer Club, and listen weekly to Risky Business.
-
-Right now, I'm looking for a professional cybersecurity internship. If that sounds like a good fit, I'd love to hear from you!
+Right now, Im currently seeking a professional cybersecurity internship. If you are looking for someone driven to secure the digital landscape, I'd love to hear from you.
 
 <br>
 
