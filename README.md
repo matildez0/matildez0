@@ -9,7 +9,7 @@
 
 ## A little bit of my perspective 
 
-Cybersecurity is the field that keeps me curious every single day. I thrive on taking systems apart to uncover exactly how they work and where they break. The continuous loop of testing, learning, and connecting the dots until a vulnerability finally clicks is what drives me.
+Cybersecurity is the field that keeps me curious every single day. 
 
 In an often chaotic daily life where physical safety is not always a given, the online environment must be a space built on trust that empowers us to connect. This is exactly where my practical mindset aligns with the core values of leading tech companies. I believe in ensuring users feel protected so they can navigate, share, and explore freely without fear. Ultimately, my goal is to bring that unshakable peace of mind into the digital space, ensuring that no matter the unpredictability outside, every person's experience remains secure and open.
 I back this mindset with hands-on practice: tackling CTFs (TryHackMe, PortSwigger, SEED Labs). To stay ahead of a fast-moving industry, I regularly follow Dark Reading, the Chaos Computer Club, and the *Risky Business* podcast.
